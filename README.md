@@ -9,7 +9,7 @@ Olá! Bem-vindo ao repositório do meu projeto desenvolvido para a entrega inter
 
 Acesse meu portfólio online pelo GitHub Pages:
 
-[Visualizar meu portfólio](https://kauaalvesgt.github.io/portfolio-dados/)
+[Visualizar meu portfólio](https://kauaalvesgt.github.io/GitHub-Page/)
 
 ## Histórico de versões
 
